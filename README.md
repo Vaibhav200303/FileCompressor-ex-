@@ -13,7 +13,7 @@ A web-based demonstration of Huffman compression algorithm for text files, built
 
 ## 🚀 Demo
 
-Try it live: [Huffman Compression Demo](#) *(Add your deployment URL here)*
+Try it live: https://resplendent-mochi-33193f.netlify.app/
 
 ## 💻 Technologies Used
 
